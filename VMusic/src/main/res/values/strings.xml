@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VMusic</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="left_menu_drawer_titles">
+        <item>My music</item>
+        <item>Friend music</item>
+    </string-array>
+
+</resources>
